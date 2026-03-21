@@ -6,7 +6,7 @@ A countdown timer to my summer break — built with Vanilla JavaScript ⏳
 A simple countdown timer built with HTML, CSS & Vanilla JavaScript.
 
 ## Live Demo
-[رابط لو نشرته على GitHub Pages]
+[https://blayzex.github.io/Summer-Break-Countedown/ GitHub Pages]
 
 ## Built With
 - HTML
